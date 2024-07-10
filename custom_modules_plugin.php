@@ -8,7 +8,6 @@
  * Author URI: https://wordpress.org
  * License: GPL2+
  *
- * @package WP_Test
 */
 
 // Prevent direct access
